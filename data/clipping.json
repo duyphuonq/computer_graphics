@@ -1,0 +1,366 @@
+{
+    "Các lựa chọn màu được mã hóa số với các giá trị sau": [
+        "Miền bao gồm 0 và các số nguyên dương",
+        "Miền từ 0 tới 1",
+        "Miền từ 0 tới -0",
+        [
+            "Miền bao gồm 0 và các số nguyên dương"
+        ]
+    ],
+    "Trong hệ thống mành có màu số lượng màu sẵn có phụ thuộc vào ": [
+        "Dung lượng cung cấp để lưu trữ 1 điểm ảnh trong bộ đệm khung",
+        "Màu trong bộ đệm khung",
+        "Màu RGB",
+        [
+            "Dung lượng cung cấp để lưu trữ 1 điểm ảnh trong bộ đệm khung"
+        ]
+    ],
+    "Màu có mã “000” là màu": [
+        "Đen",
+        "Trắng",
+        "Xanh dương",
+        "Xanh lá",
+        [
+            "Đen"
+        ]
+    ],
+    "Thông tin màu được lưu trữ trong": [
+        "Bộ đệm khung",
+        "Bộ nhớ chính",
+        "Bộ nhớ phụ",
+        "Card đồ họa",
+        [
+            "Bộ đệm khung"
+        ]
+    ],
+    "Bất cứ khi nào một mã màu cụ thể được mô tả rõ trong một ứng dụng giá trị nhị phân tương ứng được lưu trữ trong": [
+        "Trực tiếp trong bộ đệm khung (Directly in frame buffer)",
+        "Bảng tra màu (Color look-up table)",
+        "Bảng tra video (Video lookup table)",
+        [
+            "Trực tiếp trong bộ đệm khung (Directly in frame buffer)"
+        ]
+    ],
+    "Miền giá trị mô tả các mức xám ": [
+        "Miền giá trị từ 0 tới 1",
+        "Miền giá trị từ -1 tới 1",
+        "Miền giá trị từ 0 tới -1",
+        "Bất cứ lựa chọn nào ở trên",
+        [
+            "Miền giá trị từ 0 tới 1"
+        ]
+    ],
+    "Với 3 bit cho một điểm ảnh chúng ta có thể biểu diễn 8 mức xám Nếu chúng ta sử dụng 8 bit cho một điểm ảnh thì có thể biểu diễn được bao nhiêu mức xám": [
+        "256 mức xám",
+        "18 mức xám",
+        "128 mức xám",
+        "Không màu",
+        [
+            "256 mức xám"
+        ]
+    ],
+    "Với cường độ hiển thị tương ứng với màu cho trước chỉ số ci được tính như sau": [
+        "Intensity=0.5[min(r, g, b)+ max(r, g, b)]",
+        "Intensity=0.5[max(r, g, b)+ max(r, g, b)]",
+        "Intensity=0.5[min(r, g, b)+ min(r, g, b)]",
+        "Intensity=0.5[max(r, g, b)- max(r, g, b)]",
+        [
+            "Intensity=0.5[min(r, g, b)+ max(r, g, b)]"
+        ]
+    ],
+    "Một người sử dụng có thể thiết lập đầu vào bảng màu trong chương trình ứng dụng PHIGS với hàm": [
+        "setColourRepresentation (ws, ci, colorptr)",
+        "setColorRepresentation (ws, ci, colorptr)",
+        "setColour (ws, ci, colorptr)",
+        "setColourRepresentation ()",
+        [
+            "setColourRepresentation (ws, ci, colorptr)"
+        ]
+    ],
+    "Nếu bất cứ giá trị cường độ vào gần 033 có thể được lưu trữ thành giá trị nhị phân 1 trong bộ đệm khung thì nó biểu ": [
+        "Màu xám tối",
+        "Màu xanh lá tối",
+        "Màu xám sáng",
+        "Trắng hoặc đen",
+        [
+            "Màu xám tối"
+        ]
+    ],
+    "Một kiểu tô màu cơ bản trong chương trình PHIGS là hàm": [
+        "setInteriorStyle (fs)",
+        "setStyle (fs)",
+        "SetfillStyle (fs)",
+        "setInteriorStyleIndex (fs)",
+        [
+            "setInteriorStyle (fs)"
+        ]
+    ],
+    "Loại này không phải kiểu tô màu cơ bản": [
+        "Tối (Dark)",
+        "Rỗng (Hollow)",
+        "Màu đặc (solid color)",
+        "Mẫu (Pattern)",
+        [
+            "Tối (Dark)"
+        ]
+    ],
+    "Quá trình tô màu một vùng với mẫu hình chữ nhật được gọi là": [
+        "Tiling",
+        "Linear fill",
+        "Tint-fill",
+        "Soft-fill",
+        [
+            "Tiling"
+        ]
+    ],
+    "Thuật toán tô màu lại một vùng mà trước đó đã được tô bằng cách trộn màu “foreground color F” và ”background color B” khi FB là": [
+        "Linear soft-fill",
+        "Tint fill",
+        "Flood fill",
+        "Boundary fill",
+        [
+            "Linear soft-fill"
+        ]
+    ],
+    "Màu tô kết hợp với màu nền “ là": [
+        "Soft fill",
+        "Tint fill",
+        "Không lựa chọn nào",
+        [
+            "Soft fill",
+            "Tint fill"
+        ]
+    ],
+    "Thủ tục tô màu vân “Hatch fill” được gọi để vẽ": [
+        "Một trong hai",
+        "Single hatching",
+        "Cross hatching",
+        [
+            "Một trong hai"
+        ]
+    ],
+    "Khi hai màu nền background color B1 và B2 được trộn với màu ”foreground color F” kết quả được màu P được tính như sau": [
+        "P=t0*F+t1*B1+(1-t0-t1)B2",
+        "P=t0*F-t1*B1+(1-t0-t1)B2",
+        "P=t0*F+t1*B1+(1+t0+t1)B2",
+        [
+            "P=t0*F+t1*B1+(1-t0-t1)B2"
+        ]
+    ],
+    "Phép toán được dùng để kết hợp mẫu tô fill pattern với mẫu nền background pattern là": [
+        "AND",
+        "OR",
+        "X-OR",
+        [
+            "AND",
+            "OR",
+            "X-OR"
+        ]
+    ],
+    "Vùng rỗng Hollow areas được hiển thị chỉ dùng": [
+        "Viền biên (Boundary outline)",
+        "Lộ trình vẽ đường thẳng (Line-drawing routine)",
+        "Mẫu vân sọc (Hatched patterns)",
+        "Chuỗi các đường thẳng khép kín (Closed poly line)",
+        [
+            "Viền biên (Boundary outline)"
+        ]
+    ],
+    "Các lựa chọn cho tô màu một vùng được định nghĩa bao gồm một lựa chọn giữa": [
+        "Màu đặc hoặc mẫu (Solid color or a pattern fill)",
+        "Các lựa chọn cho các màu và mẫu cụ thể (Choices for particular colors and pattern)",
+        "Không lựa chọn nào",
+        [
+            "Màu đặc hoặc mẫu (Solid color or a pattern fill)",
+            "Các lựa chọn cho các màu và mẫu cụ thể (Choices for particular colors and pattern)"
+        ]
+    ],
+    "Các dòng quét được sử dụng để quét từ": [
+        "Đỉnh tới đáy (Top to bottom)",
+        "Đáy tới đỉnh (Bottom to top)",
+        "Không lựa chọn nào",
+        [
+            "Đỉnh tới đáy (Top to bottom)"
+        ]
+    ],
+    "Quá trình ánh xạ từ cửa sổ thế giới từ hệ tọa độ thế giới sang viewport được gọi là": [
+        "Transformation viewing",
+        "Viewport",
+        "Clipping window",
+        "Screen coordinate system",
+        [
+            "Transformation viewing"
+        ]
+    ],
+    "Quá trình trích chọn một phần của cơ sở dữ liệu hoặc một ảnh bên trong bên ngoài của một vùng được gọi là": [
+        "Clipping",
+        "Transformation",
+        "Projection",
+        "Mapping",
+        [
+            "Clipping"
+        ]
+    ],
+    "Phần hình chữ nhật của một cửa sổ giao diện nơi mà bức ảnh sẽ xuất hiện được gọi là": [
+        "View port",
+        "Transformation viewing",
+        "Clipping window",
+        "Screen coordinate system",
+        [
+            "View port"
+        ]
+    ],
+    "Hệ tọa độ của cửa sổ nơi đối tượng thật xuất hiện được gọi là ": [
+        "World coordinates",
+        "Screen coordinates",
+        "Device coordinates",
+        "Cartesian coordinates",
+        [
+            "World coordinates"
+        ]
+    ],
+    "Hệ tọa độ của viewport được gọi là": [
+        "Screen coordinates",
+        "World coordinates",
+        "Polar coordinates",
+        "Cartesian coordinates",
+        [
+            "Screen coordinates"
+        ]
+    ],
+    "Vùng chứa đối tượng sau khi bị cắt xén được gọi là ": [
+        "Clip window",
+        "Boundary",
+        "Enclosing rectangle",
+        "Clip square",
+        [
+            "Clip window"
+        ]
+    ],
+    "để xác định vùng ảnh nằm ngoài cửa sổ cắt xén clip window": [
+        "Exterior clipping",
+        "Interior clipping",
+        "Extraction",
+        "Không lựa chọn nào",
+        [
+            "Exterior clipping"
+        ]
+    ],
+    "Xác định thuật toán dùng để cắt xén đoạn thẳng": [
+        "Tất cả các lựa chọn",
+        "Cohen- Sutherland algorithm",
+        "Liang-Barsky clipping",
+        "Nicholl-Lee-Nicholl clipping",
+        [
+            "Tất cả các lựa chọn"
+        ]
+    ],
+    "Mã dùng để mã hóa vùng cửa sổ cắt xén là": [
+        "0000",
+        "1111",
+        "1000",
+        "0001",
+        [
+            "0000"
+        ]
+    ],
+    "Theo thuật toán CohenSutherland một đoạn thẳng hoàn toàn nằm bên ngoài cửa sổ cắt xén nếu": [
+        "Mã của hai đầu mút đoạn thẳng có cùng bit '1' tại cùng vị trí.",
+        "Mã của hai đầu mút đoạn thẳng có giá trị khác 0",
+        "Nếu bit L và R khác 0.",
+        "Mã của hai đầu mút đoạn thẳng có cùng bit '0' tại cùng vị trí.",
+        [
+            "Mã của hai đầu mút đoạn thẳng có cùng bit '1' tại cùng vị trí."
+        ]
+    ],
+    "Mã của một điểm là 1001 Điểm đó nằm ở vùng  so với cửa sổ cắt xén": [
+        "Top left",
+        "Top right",
+        "Bottom left",
+        "Botton right",
+        [
+            "Top left"
+        ]
+    ],
+    "Kết quả của phép toán AND với mã của các đầu mút với giá trị khác 0 Câu nào sau đây đúng": [
+        "Đoạn thẳng nằm hoàn toàn bên ngoài cửa sổ cắt",
+        "Đoạn thẳng nằm hoàn toàn bên trong cửa sổ cắt",
+        "Đoạn thẳng có một phần nằm bên trong cửa sổ cắt",
+        "Đoạn thẳng đã được cắt",
+        [
+            "Đoạn thẳng nằm hoàn toàn bên ngoài cửa sổ cắt"
+        ]
+    ],
+    "Bit bên trái L bit  của mã của điểm XY là 1 nếu ": [
+        "X< XWMIN",
+        "X > XWMIN",
+        "X< XWMAX",
+        "X>XWMAX",
+        [
+            "X< XWMIN"
+        ]
+    ],
+    "Bit bên phải R bit  của mã của điểm XY là 1 nếu": [
+        "X>XWMAX",
+        "X > XWMIN",
+        "X< XWMIN",
+        "X< XWMAX",
+        [
+            "X>XWMAX"
+        ]
+    ],
+    "Bit trên đỉnh T bit  của mã của điểm XY là 1 nếu ": [
+        "Y>YWMAX",
+        "Y > YWMIN",
+        "Y< YWMIN",
+        "Y< YWMAX",
+        [
+            "Y>YWMAX"
+        ]
+    ],
+    "Bit dưới đáy B bit  của mã của điểm XY là 1 nếu ": [
+        "Y< YWMIN",
+        "Y > YWMIN",
+        "Y< YWMAX",
+        "Y>YWMAX",
+        [
+            "Y< YWMIN"
+        ]
+    ],
+    "Thuật toán  chia không gian 2 chiều thành 9 vùng trong đó vùng ở giữa viewport chứa phần hiển thị của đối tượng": [
+        "Cohen-Sutherland",
+        "Liang Barsky",
+        "Sutherland Hodegeman",
+        "N-L-N",
+        [
+            "Cohen-Sutherland"
+        ]
+    ],
+    "Phép toán được sử dụng để kiểm tra đoạn thẳng có bị cắt xén hay không": [
+        "logical AND",
+        "logical XOR",
+        "logical OR",
+        "OR và XOR",
+        [
+            "logical AND"
+        ]
+    ],
+    "Thuật toán Sutherland Hodgeman hoạt động tốt trong trường hợp cắt xén": [
+        "Convex polygon",
+        "Concave polygon",
+        "Smooth curves",
+        "Line segment",
+        [
+            "Convex polygon"
+        ]
+    ],
+    "Một phép biến đổi làm xiên slants hình dáng của đối tượng được gọi là ": [
+        "Shear",
+        "Reflection",
+        "Distortion",
+        "Scaling",
+        [
+            "Shear"
+        ]
+    ]
+}

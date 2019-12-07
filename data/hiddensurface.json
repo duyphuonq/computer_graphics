@@ -1,0 +1,118 @@
+{
+    "Các bề mặt bị khóa hoặc ẩn trong khung cảnh 3 chiều được gọi là": [
+        "Các bề mặt ẩn (Hidden surface)",
+        "Bộ đệm khung (Frame buffer)",
+        "Cây tứ phân (Quad tree)",
+        "Bề mặt bị mất (Lost surface)",
+        [
+            "Các bề mặt ẩn (Hidden surface)"
+        ]
+    ],
+    "Nhiệm vụ của bài toán loại bỏ bề mặt ẩn là": [
+        "Loại bỏ bề mặt ẩn (Removal of hidden surface)",
+        "Nhận diện các bề mặt ẩn (Identification of hidden surface)",
+        "Không lựa chọn nào",
+        [
+            "Loại bỏ bề mặt ẩn (Removal of hidden surface)",
+            "Nhận diện các bề mặt ẩn (Identification of hidden surface)"
+        ]
+    ],
+    "Tại sao chúng ta cần phải loại bỏ bề mặt ẩn": [
+        "Để hiển thị cảnh thực",
+        "Để xác định bề mặt hiện gần nhất",
+        "Không lựa chọn nào",
+        [
+            "Để hiển thị cảnh thực",
+            "Để xác định bề mặt hiện gần nhất"
+        ]
+    ],
+    "Thuật toán của bài toán loại bỏ bề mặt ẩn là": [
+        "Chính xác theo đối tượng (Object-space method)",
+        "Chính xác theo ảnh (Image-space method)",
+        "Không lựa chọn nào",
+        [
+            "Chính xác theo đối tượng (Object-space method)",
+            "Chính xác theo ảnh (Image-space method)"
+        ]
+    ],
+    "Phương pháp dựa trên nguyên lý so sánh các đối tượng và các phần của đối tượng với nhau để tìm ra thành phần ẩn và thành phần hiển thị được gọi là": [
+        "Chính xác theo đối tượng (Object-space method)",
+        "Chính xác theo ảnh (Image-space method)",
+        "Chính xác theo bề mặt (Surface-space method",
+        [
+            "Chính xác theo đối tượng (Object-space method)"
+        ]
+    ],
+    "Phương pháp dựa trên nguyên lý kiểm cha điểm hiển thị với mỗi vị trí điểm ảnh trên mặt phẳng chiếu được gọi là": [
+        "Chính xác theo ảnh (Image-space method)",
+        "Chính xác theo đối tượng (Object-space method)",
+        "Không lựa chọn nào",
+        [
+            "Chính xác theo ảnh (Image-space method)"
+        ]
+    ],
+    "Các kiểu của thuật toán loại bỏ bề mặt ẩn": [
+        "So sánh độ sâu, Z-buffẻ, loại bỏ mặt quay vào trong (Depth comparison, Z-buffer, back-face removal)",
+        "Thuật toán dòng quét, thuật toán ưu tiên (Scan line algorithm, priority algorithm)",
+        "Phân hoạch nhị phân, chia nhỏ vùng (BSP method, area subdivision method)",
+        [
+            "So sánh độ sâu, Z-buffẻ, loại bỏ mặt quay vào trong (Depth comparison, Z-buffer, back-face removal)",
+            "Thuật toán dòng quét, thuật toán ưu tiên (Scan line algorithm, priority algorithm)",
+            "Phân hoạch nhị phân, chia nhỏ vùng (BSP method, area subdivision method)"
+        ]
+    ],
+    "Thuật toán bề mặt nào dựa trên khía cạnh độ sâu": [
+        "Z-buffer",
+        "BSP",
+        "Chia nhỏ vùng",
+        "Loại bỏ mặt quay vào trong",
+        [
+            "Z-buffer"
+        ]
+    ],
+    "Thuật toán tương thích với dòng quét được phát triển bởi": [
+        "Wylie",
+        "Evans",
+        "Cat mull",
+        [
+            "Wylie",
+            "Evans"
+        ]
+    ],
+    "“Raytracing” theo dấu tia là mở rộng của": [
+        "Ray casting",
+        "Ray calling",
+        "Ray sampling",
+        "Ray coherence",
+        [
+            "Ray casting"
+        ]
+    ],
+    "Z buffer là thuật toán": [
+        "Đơn giản nhất",
+        "Phức tạp nhất",
+        "Rộng nhất",
+        "Không lựa chọn nào",
+        [
+            "Đơn giản nhất"
+        ]
+    ],
+    "Kiểu cây nào của cấu trúc dữ liệu mà mỗi nút trong có 4 nút con": [
+        "Cây tứ phân (Quad tree)",
+        "Cây 4 điểm (Point quad tree)",
+        "Cây 4 cạnh (Edge quad tree)",
+        "Không lựa chọn nào",
+        [
+            "Cây tứ phân (Quad tree)"
+        ]
+    ],
+    "Thuật toán người thợ sơn dựa trên thuộc tính của": [
+        "Bộ đệm khung (Frame buffer)",
+        "Đa giác (Polygon)",
+        "Bộ đệm độ sâu (Depth buffer)",
+        "Không lựa chọn nào",
+        [
+            "Bộ đệm khung (Frame buffer)"
+        ]
+    ]
+}

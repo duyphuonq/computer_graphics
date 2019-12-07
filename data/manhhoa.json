@@ -1,0 +1,257 @@
+{
+    "Phương trình đường thẳng dưới dạng hệ số góc Cartesian slopeintercept equation có dạng như sau": [
+        "y = m.x + b",
+        "y = b.x + m",
+        "y = x.x + m",
+        "y = b + m.m",
+        [
+            "y = m.x + b"
+        ]
+    ],
+    "Đối với các đường thẳng có hệ số góc m với m1 khi áp dụng thuật toán đơn giảng để vẽ đường thẳng thì": [
+        "Tăng x lên 1 đơn vị rồi tính y",
+        "Tăng y lên 1 đơn vị rồi tính x",
+        "Không lựa chọn nào",
+        [
+            "Tăng x lên 1 đơn vị rồi tính y"
+        ]
+    ],
+    "Trong hệ thống mành hóa các đường thẳng được vẽ dưới dạng": [
+        "Điểm ảnh",
+        "Đường thẳng",
+        "Chấm",
+        "Không lựa chọn nào",
+        [
+            "Điểm ảnh"
+        ]
+    ],
+    "Tên đầy đủ của DDA trong thuật toán DDA là": [
+        "Digital differential analyzer",
+        "Digital difference analyzer",
+        "Direct differential analyzer",
+        "Data differential analyzer",
+        [
+            "Digital differential analyzer"
+        ]
+    ],
+    "Thuật toán nào là phương pháp nhanh nhất tìm vị trí của điểm ảnh khi vẽ đường thẳng trong số các thuật toán dưới đây": [
+        "Thuật toán vẽ đường thẳng Bresenham",
+        "Thuật toán vẽ đường thẳng dùng đường thẳng hệ số góc đơn giản",
+        "Thuật toán điểm giữa vẽ đường thẳng",
+        "Thuật toán DDA vẽ đường thẳng",
+        [
+            "Thuật toán vẽ đường thẳng Bresenham"
+        ]
+    ],
+    "Một thuật toán mành hóa vẽ đường thẳng chính xác và hiệu quả là": [
+        "Thuật toán vẽ đường thẳng Bresenham",
+        "Thuật toán vẽ đường thẳng dùng đường thẳng hệ số góc đơn giản",
+        "Thuật toán điểm giữa vẽ đường thẳng",
+        "Thuật toán DDA vẽ đường thẳng",
+        [
+            "Thuật toán vẽ đường thẳng Bresenham"
+        ]
+    ],
+    "Trong thuật toán Bresendham vẽ đường thẳng Nếu d1  d2 thì tham số quyết định Pk là": [
+        "Âm",
+        "Dương",
+        "Tương đương",
+        [
+            "Âm"
+        ]
+    ],
+    "Thuật toán vẽ đường thẳng nào là tốt nhất trong việc cân bằng tải xử lý giữa các bộ xử lý": [
+        "Thuật toán song song vẽ đường thẳng",
+        "Thuật toán vẽ đường thẳng Bresenham",
+        "Thuật toán điểm giữa vẽ đường thẳng",
+        "Thuật toán DDA vẽ đường thẳng",
+        [
+            "Thuật toán song song vẽ đường thẳng"
+        ]
+    ],
+    "Thuật toán sử dụng nhiều bộ xử lý để tính toán các vị trí của điểm ảnh là": [
+        "Thuật toán song song vẽ đường thẳng",
+        "Thuật toán vẽ đường thẳng Bresenham",
+        "Thuật toán điểm giữa vẽ đường thẳng",
+        "Thuật toán DDA vẽ đường thẳng",
+        [
+            "Thuật toán song song vẽ đường thẳng"
+        ]
+    ],
+    "Tham chiếu tọa độ trong hàm vẽ chuỗi đường thẳng được chỉ ra như": [
+        "Giá trị tọa độ tuyệt đối (Absolute coordinate values)",
+        "Giá trị tọa độ liên quan (Relative coordinate values)",
+        "Vị trí hiện tại (Current position)",
+        "Giá trị tọa độ thực (Real coordinate values)",
+        [
+            "Giá trị tọa độ tuyệt đối (Absolute coordinate values)"
+        ]
+    ],
+    " Để áp dụng phương pháp điểm giữa vẽ đường tròn chúng ta định nghĩa": [
+        "circle(x, y)= x**2 + y**2 - r**2",
+        "circle(x, y)= x + y**2 - r**2",
+        "circle(x, y)= x**2 + y - r",
+        "circle(x, y)= x**2 + y**2 - z**2",
+        [
+            "circle(x, y)= x**2 + y**2 - r**2"
+        ]
+    ],
+    "được định nghĩa là tập các điểm sao tổng khoảng cách từ điểm đó tới 2 điểm cố định cho trước không đổi": [
+        "Elip",
+        "Đường thẳng",
+        "Đường tròn",
+        "Tam giác",
+        [
+            "Elip"
+        ]
+    ],
+    "Nếu đường biên được mô tả với một màu thì thuật toán xuất phát từ một điểm xử lý từng điểm ảnh cho đến khi gặp được màu biên được gọi là": [
+        "Thuật toán tô màu loang (Flood-fill algorithm)",
+        "Thuật toán tô màu dòng quét (Scan-line fill algorithm)",
+        "Thuật toán tô biên (Boundary-fill algorithm)",
+        "Thuật toán đường cong song song (Parallel curve algorithm)",
+        [
+            "Thuật toán tô màu loang (Flood-fill algorithm)"
+        ]
+    ],
+    "Thuật toán tô phủ loang dùng quan hệ láng giềng nào": [
+        "4 láng giềng",
+        "8 láng giềng",
+        [
+            "4 láng giềng",
+            "8 láng giềng"
+        ]
+    ],
+    "Thuộc tính cơ bản của đoạn thẳng là": [
+        "Kiểu",
+        "Độ rộng",
+        "Màu",
+        [
+            "Kiểu",
+            "Độ rộng",
+            "Màu"
+        ]
+    ],
+    "Một đường thẳng tô nét đứt dashed line được hiển thị bằng cách sinh ra": [
+        "Inter dash spacing",
+        "Very short dashes",
+        "Cả hai",
+        "Một trong hai",
+        [
+            "Inter dash spacing"
+        ]
+    ],
+    "Một đường thẳng tô dưới dạng điểm dotted line có thể được hiển thị bằng cách sinh ra": [
+        "Very short dashes với khoảng trắng lớn hơn hoặc bằng cỡ của dash",
+        "Very short dashes với khoảng trắng nhỏ hơn hoặc bằng cỡ của dash",
+        "Very long dashes với khoảng trắng lớn hơn hoặc bằng cỡ của dash",
+        "Dots",
+        [
+            "Very short dashes với khoảng trắng lớn hơn hoặc bằng cỡ của dash"
+        ]
+    ],
+    "Lựa chọn nào dưới đây không phải kiểu đường thẳng linetype": [
+        "Dark line",
+        "Dashed line",
+        "Dotted line",
+        [
+            "Dark line"
+        ]
+    ],
+    "Trong một ứng dụng để thiết lập thuộc tính kiểu đường thẳng linetype chúng ta dùng câu lệnh": [
+        "setLinetype(lt)",
+        "SetLinetype(lt)",
+        "SETLINETYPE(lt)",
+        "SETLINE()",
+        [
+            "setLinetype(lt)"
+        ]
+    ],
+    "Thuật toán hiển thị thuộc tính kiểu đường thẳng linetype bằng cách vẽ từng nhịp điểm ảnh pixel span là": [
+        "Raster line algorithm",
+        "Raster scan algorithm",
+        "Random line algorithm",
+        "Random scan algorithm",
+        [
+            "Raster line algorithm"
+        ]
+    ],
+    "Mặt nạ điểm ảnh Pixel mask có nghĩa là": [
+        "Chuỗi chứa 0 và 1",
+        "Chuỗi chỉ chứa 1",
+        "Chuỗi chỉ chứa 0",
+        [
+            "Chuỗi chứa 0 và 1"
+        ]
+    ],
+    "Một “heavy line” trên màn hình video có thể hiển thị như": [
+        "Adjacent parallel lines",
+        "Adjacent perpendicular lines",
+        "Cả hai",
+        "Một trong hai",
+        [
+            "Adjacent parallel lines"
+        ]
+    ],
+    "Tham số cho “setLineWidthScaleFactor lw “ được mô tả là": [
+        "Độ rộng của đường thẳng đang vẽ (Relative width of the line)",
+        "Độ rộng chuẩn (Standard width)",
+        "Độ dày của đường thẳng đang vẽ (Thickness of the line)",
+        "Tất cả các lựa chọn",
+        [
+            "Độ rộng của đường thẳng đang vẽ (Relative width of the line)"
+        ]
+    ],
+    "Chúng ta có thể chỉnh hình dáng của các điểm cuối line ends của đường thẳng có bề ngoài tốt hơn sử dụng": [
+        "Line caps",
+        "Line spacing",
+        "More dots",
+        "Round cap",
+        [
+            "Line caps"
+        ]
+    ],
+    "Độ dày đường thẳng Thick line được vẽ với ": [
+        "Tất cả các lựa chọn",
+        "Butt caps",
+        "Round caps",
+        "Projecting square caps",
+        [
+            "Tất cả các lựa chọn"
+        ]
+    ],
+    "Chúng ta thiết lập giá trị màu đường thẳng linecolor value trong PHIGS bằng hàm": [
+        "setPolylineColorIndex (lc)",
+        "setline Color()",
+        "SETPOLYLINECOLORINDEX (lc)",
+        [
+            "setPolylineColorIndex (lc)"
+        ]
+    ],
+    "Điền vào chỗ trống Nếu góc giữa hai đoạn thẳng nối nhau là rất nhỏ thì    có thể sinh ra sự tăng đột biến làm biến dạng bề ngoài của polyline": [
+        "Miter join",
+        "Round join",
+        "Bevel join",
+        "Không lựa chọn nào",
+        [
+            "Miter join"
+        ]
+    ],
+    "Một đường thẳng được vẽ với màu nền thì": [
+        "Invisible",
+        "Visible",
+        "Visible or Invisible",
+        [
+            "Invisible"
+        ]
+    ],
+    "Giá trị của tham số t nằm giữa": [
+        "1 và 10",
+        "1 và 2",
+        "0 và 1",
+        "0 và 3",
+        [
+            "1 và 10"
+        ]
+    ]
+}

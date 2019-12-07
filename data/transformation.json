@@ -1,0 +1,318 @@
+{
+    "Phép biến đổi tịnh tiến được áp dụng cho một đối tượng object bằng cách": [
+        "Đặt lại vị trí của đối tượng dọc theo một đường thẳng",
+        "Đặt lại vị trí của đối tượng dọc theo một cung tròn",
+        "Tất cả các lựa chọn",
+        [
+            "Đặt lại vị trí của đối tượng dọc theo một đường thẳng"
+        ]
+    ],
+    "Chúng ta tịnh tiến một điểm 2 chiều bằng cách cộng thêm": [
+        "Khoảng cách dịch chuyển",
+        "Độ lệch theo X",
+        "X và Y",
+        "Độ lệch theo Y",
+        [
+            "Khoảng cách dịch chuyển"
+        ]
+    ],
+    "Các khoảng cách dịch chuyển dx dy được gọi là": [
+        "Véc tơ dịch chuyển",
+        "Véc tơ tịnh tiến",
+        "Không có lựa chọn",
+        [
+            "Véc tơ dịch chuyển",
+            "Véc tơ tịnh tiến"
+        ]
+    ],
+    "Trong tịnh tiến 2 chiều một điểm x y có thể dịch chuyển sang vị trí mới x’ y’ bằng cách sử dụng phương trình": [
+        "x’=x+dx and y’=y+dy",
+        "x’=x+dx and y’=y+dx",
+        "X’=x+dy and Y’=y+dx",
+        "X’=x-dx and y’=y-dy",
+        [
+            "x’=x+dx and y’=y+dy"
+        ]
+    ],
+    "Phương trình của phép biến đổi tịnh tiến khi điểm biểu diễn dưới dạng tọa độ Đecác là": [
+        "P’=P+T",
+        "P’=P-T",
+        "P’=P*T",
+        "P’=p",
+        [
+            "P’=P+T"
+        ]
+    ],
+    "là một phép biến đổi không biến đổi hình dạng rigid body transformation chỉ thay đổi vị trí đối tượng mà không làm biến dạng nó": [
+        "Quay",
+        "Tịnh tiến",
+        "Co dãn",
+        [
+            "Quay",
+            "Tịnh tiến"
+        ]
+    ],
+    "Một đoạn thẳng được tịnh tiến bằng cách áp dụng phương trình biến đổi": [
+        "P’=P+T",
+        "Dx và Dy",
+        "P’=P+P",
+        [
+            "P’=P+T"
+        ]
+    ],
+    "Các đa giác được dịch chuyển bằng cách công thêm   vào vị trí tọa độ của mỗi đỉnh và thiết lập thuộc tính hiện tại": [
+        "Véc tơ tịnh tiến",
+        "Đường đi một đường thẳng",
+        "Độ lệch",
+        [
+            "Véc tơ tịnh tiến"
+        ]
+    ],
+    "Để thay đổi vị trí của một đường tròn hay elip chúng ta tịnh tiến": [
+        "Tọa độ tâm và vẽ lại hình ở vị trí mới",
+        "Tọa độ tâm",
+        "Các tạo độ biên",
+        "Tất cả các lựa chọn",
+        [
+            "Tọa độ tâm và vẽ lại hình ở vị trí mới"
+        ]
+    ],
+    "Các phép biến đổi hình học afin bao gồm": [
+        "Tất cả các lựa chọn",
+        "Tịnh tiến",
+        "Quay",
+        "Co dãn",
+        [
+            "Tất cả các lựa chọn"
+        ]
+    ],
+    "Một phép quay hai chiều được áp dụng cho một đối tượng bằng cách": [
+        "Đặt lại vị trí của đối tượng dọc theo một cung tròn",
+        "Đặt lại vị trí của đối tượng dọc theo một đường thẳng",
+        "Tất cả các lựa chọn",
+        [
+            "Đặt lại vị trí của đối tượng dọc theo một cung tròn"
+        ]
+    ],
+    "Để sinh ra một phép quay chúng ta phải mô tả": [
+        "Góc quay Θ",
+        "Khoảng cách dx và dy",
+        "Khoảng cách quay",
+        "Tất cả các lựa chọn",
+        [
+            "Góc quay Θ"
+        ]
+    ],
+    "Các giá trị dương trong phép quay của góc quay Θ định nghĩa": [
+        "Góc quay ngược chiều kim đồng hồ xung quanh tâm quay",
+        "Góc quay ngược chiều kim đồng hồ xung quanh điểm cần quay",
+        "Tịnh tiến ngược chiều kim đồng hồ quanh tâm quay",
+        "Hướng âm",
+        [
+            "Góc quay ngược chiều kim đồng hồ xung quanh tâm quay"
+        ]
+    ],
+    "Trục quay vuông góc với mặt phẳng xy và đi qua một điểm chốt được gọi là": [
+        "Phép quay",
+        "Phép tịnh tiến",
+        "Phép có dãn",
+        "Phép kéo",
+        [
+            "Phép quay"
+        ]
+    ],
+    "Tọa độ Đềcac của một điểm trong hệ tọa độ cực là": [
+        "X’=r cos (Ф +Θ) and Y’=r sin (Ф +Θ)",
+        "X’=r cos (Ф +Θ) and Y’=r cos (Ф +Θ)",
+        "X’=r cos (Ф -Θ) and Y’=r cos (Ф -Θ)",
+        "X’=r cos (Ф +Θ) and Y’=r sin (Ф -Θ)",
+        [
+            "X’=r cos (Ф +Θ) and Y’=r sin (Ф +Θ)"
+        ]
+    ],
+    "Phương trình phép quay 2 chiều là": [
+        "P’=R*P",
+        "P’=P+T",
+        "P’=P*P",
+        "P’=R+P",
+        [
+            "P’=R*P"
+        ]
+    ],
+    "là phép biến đổi di chuyển đối tượng theo quĩ đạo tròn": [
+        "Quay",
+        "Tịnh tiến",
+        "Co dãn",
+        "Kéo",
+        [
+            "Quay"
+        ]
+    ],
+    "Một elip có thể quay quanh tâm của nó bằng cách quay": [
+        "Trục lớn, trục nhỏ",
+        "Các điểm đầu mút",
+        "Không lựa chọn nào",
+        [
+            "Trục lớn, trục nhỏ"
+        ]
+    ],
+    "Chỉ ra phép biến đổi được sử dụng để thay đổi kích cỡ của đối tượng": [
+        "Co dãn",
+        "Quay",
+        "Tịnh tiến",
+        "Phản xạ",
+        [
+            "Co dãn"
+        ]
+    ],
+    "Phương trình của phép co dãn 2 chiều": [
+        "P’=S*P",
+        "P’=P+T",
+        "P’=P*R",
+        "P’=R+S",
+        [
+            "P’=S*P"
+        ]
+    ],
+    "Co dãn một hình đa giác bằng cách tính": [
+        "Nhân hệ số co dãn (x, y) với từng đỉnh",
+        "Chia hệ số co dãn (x,y) cho từng đỉnh",
+        "Các tọa độ tâm",
+        "Các tọa độ đỉnh",
+        [
+            "Nhân hệ số co dãn (x, y) với từng đỉnh"
+        ]
+    ],
+    "Nếu các hệ số co dãn sx và sy  1 thì": [
+        "Phép biến đổi giảm kích cỡ đối tượng",
+        "Phép biến đổi tăng kích cỡ đối tượng",
+        "Phép biến đổi làm xiên đối tượng",
+        "Không có đáp án",
+        [
+            "Phép biến đổi giảm kích cỡ đối tượng"
+        ]
+    ],
+    "Nếu giá trị của các hệ số co dãn sx và sy bằng nhau thì": [
+        "Phép biến đổi là phép co dãn đồng nhất",
+        "Phép biến đổi là phép quay đồng nhất",
+        "Phép co dãn không thể thực hiện được",
+        [
+            "Phép biến đổi là phép co dãn đồng nhất"
+        ]
+    ],
+    "Các đối tượng được biến đổi theo phương trình P’SP có thể là": [
+        "Bị co dãn",
+        "Bị xác định lại vị trí",
+        "Không lựa chọn nào",
+        [
+            "Bị co dãn",
+            "Bị xác định lại vị trí"
+        ]
+    ],
+    "Chúng ta kiểm soát vị trí của đối tượng bị co dãn bắng cách chọn một điểm được biết đến là": [
+        "Điểm cố định (Fixed point)",
+        "Điểm xoay (Pivot point)",
+        "Co dãn không đồng nhất",
+        "Co dãn đồng nhất",
+        [
+            "Điểm cố định (Fixed point)"
+        ]
+    ],
+    "Nếu các giá trị co dãn là sx1 và sy1 thì": [
+        "Đối tượng không thay đổi kích cỡ",
+        "Đối tượng bị giảm kích cỡ",
+        "Biến dạng bức ảnh",
+        "Đối tượng bị tăng kích cỡ",
+        [
+            "Đối tượng không thay đổi kích cỡ"
+        ]
+    ],
+    "Các đa giác bị co dãn bởi áp dụng phương trình biến đổi sau": [
+        "X’=x * Sx + Xf(1-Sx) and Y’=y * Sy + Yf(1-Sy)",
+        "X’=x * Sx + Xf(1+Sx) and Y’=y * Sy + Yf(1+Sy)",
+        "X’=x * Sx + Xf(1-Sx) and Y’=y * Sy – Yf(1-Sy)",
+        "X’=x * Sx * Xf(1-Sx) and Y’=y * Sy * Yf(1-Sy)",
+        [
+            "X’=x * Sx + Xf(1-Sx) and Y’=y * Sy + Yf(1-Sy)"
+        ]
+    ],
+    "Biểu diễn dạng ma trận của phép tịnh tiến trong hệ tọa độ đồng là": [
+        "P’=T*P",
+        "P’=T+P",
+        "P’=S*P",
+        "P’=R*P",
+        [
+            "P’=T*P"
+        ]
+    ],
+    "Nếu giá trị của các hệ số co dãn sx và sy không bằng nhau thì": [
+        "Phép biến đổi là phép co dãn không đồng nhất",
+        "Phép biến đổi là phép co dãn đồng nhất",
+        "Phép co dãn không thể thực hiện được",
+        [
+            "Phép biến đổi là phép co dãn không đồng nhất"
+        ]
+    ],
+    "Biểu diễn mà trận cho biến đổi co dãn trong hệ tọa độ đồng nhất là": [
+        "P’=S*P",
+        "P’=R*P",
+        "P’=dx+dy",
+        "P’=S*S",
+        [
+            "P’=S*P"
+        ]
+    ],
+    "Biểu diễn mà trận cho phép quay trong hệ tọa độ đồng nhất là": [
+        "P’=R*P",
+        "P’=T+P",
+        "P’=S*P",
+        "P’=dx+dy",
+        [
+            "P’=R*P"
+        ]
+    ],
+    "Việc sử dụng của hệ tọa độ đồng nhất và biểu diễn ma trận là để": [
+        "Biểu diễn các phép biến đổi theo một cách đồng nhất",
+        "Thực diễn co dãn",
+        "Thực hiện phép quay",
+        "Thực hiện phép kéo",
+        [
+            "Biểu diễn các phép biến đổi theo một cách đồng nhất"
+        ]
+    ],
+    "Nếu một điểm được biểu diễn trong hệ tọa độ đồng nhất thì cặp x y trông hệ tạo độ Đecac sẽ được biểu diễn như sau": [
+        "(x’, y’, w)",
+        "(x’, y’, z’)",
+        "(x, y, z)",
+        "(x’, y’, w)",
+        [
+            "(x’, y’, w)"
+        ]
+    ],
+    "Trong phép biến đổi hai chiều giá trị thành phần tọa độ thứ 3 w": [
+        "1",
+        "0",
+        "-1",
+        "Bất cứ giá trị nào",
+        [
+            "1"
+        ]
+    ],
+    "Chúng ta có thể kết hợp các phép biến đổi 2 chiều thành một phép biến đổi dùng biểu diễn các điểm trong hệ trục tọa độ đồng nhất bằng cách mở rộng biểu diễn ma trận": [
+        "ma trận 2 x 2 thành ma trận 3x3",
+        "ma trận 2 x 2 thành ma trận 4x4",
+        "ma trận 3 x 3 thành ma trận 2x 2",
+        [
+            "ma trận 2 x 2 thành ma trận 3x3"
+        ]
+    ],
+    "Biểu diễn tọa độ trong hệ trục tọa độ đồng nhất có thể viết như sau": [
+        "(h.x, h.y, h)",
+        "(h.x, h.y, h.z)",
+        "(x, y, h.z)",
+        "(x,y,z)",
+        [
+            "(h.x, h.y, h)"
+        ]
+    ]
+}

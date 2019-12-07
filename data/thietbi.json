@@ -1,0 +1,361 @@
+{
+    "Thiết bị đầu vào thường dùng nhất là": [
+        "Bàn phím (Keyboard)",
+        "Chuột (Mouse)",
+        "Máy quét (Scanner)",
+        "Máy in (Printer)",
+        [
+            "Bàn phím (Keyboard)"
+        ]
+    ],
+    "Những phím nào cho phép người dùng nhập các hoạt động thường xuyên sử dụng trong một lần ấn phím key stroke": [
+        "Phím chức năng (Function keys)",
+        "Phím điều khiển con trỏ (Cursor control keys)",
+        "Thiết bị chỉ “Trackball” (Trackball)",
+        "Phím điều khiển (Control keys)",
+        [
+            "Phím chức năng (Function keys)"
+        ]
+    ],
+    " được dùng để đo độ xoay vòng quay": [
+        "Chiết áp (Potentiometers)",
+        "Máy đo điện thế (Volta meter)",
+        "Tham số (Parameter)",
+        [
+            "Chiết áp (Potentiometers)"
+        ]
+    ],
+    "Thiết bị dùng để chỉ vị trí con trỏ trên màn hình là": [
+        "Chuột (Mouse)",
+        "Phím điều khiển trò chơi (Joystick)",
+        "Găng tay cảm nhận (Data glove)",
+        [
+            "Chuột (Mouse)"
+        ]
+    ],
+    "được dùng để phát hiển chuyển động của chuột": [
+        "Cảm biến quang học (Optical sensor)",
+        "Bi cuộn dưới đáy chuột (Rollers on the bottom of mouse)",
+        "Cảm biến (Sensor)",
+        [
+            "Cảm biến quang học (Optical sensor)",
+            "Bi cuộn dưới đáy chuột (Rollers on the bottom of mouse)"
+        ]
+    ],
+    "Trackball là": [
+        "Thiết bị trỏ vị trí 2 chiều (Two- dimensional positioning device)",
+        "Thiết bị trỏ vị trí 3 chiều (Three- dimensional positioning device)",
+        "Thiết bị trỏ (Pointing device)",
+        "Không lựa chọn nào ở trên",
+        [
+            "Thiết bị trỏ vị trí 2 chiều (Two- dimensional positioning device)"
+        ]
+    ],
+    "Space ball cung cấp  bậc tự do": [
+        "6 bậc",
+        "10 bậc",
+        "8 bậc",
+        "12 bậc",
+        [
+            "6 bậc"
+        ]
+    ],
+    "Loại thiết bị nào có thể xoay bằng cách xoay với ngón tay hoặc long bàn tay": [
+        "Trackball",
+        "Space ball",
+        [
+            "Trackball"
+        ]
+    ],
+    "được sử dụng cho trỏ 3 chiều mô hình hóa hoạt cảnh và các ứng dụng khác": [
+        "Space ball",
+        "Trackball",
+        "Spac ball",
+        "Tất cả các lựa chọn",
+        [
+            "Space ball"
+        ]
+    ],
+    "Chiết áp được gắn vào phần đế của phím điều khiển trò chơi đề đo": [
+        "Lượng chuyển động (The amount of movement)",
+        "Hướng chuyển động (The direction)",
+        "Vị trí (Position)",
+        "Độ phân giải (Resolution)",
+        [
+            "Lượng chuyển động (The amount of movement)"
+        ]
+    ],
+    "Phím điều khiển trò chơi nhạy cảm áp suất Pressuresensitive joysticks còn được gọi là ": [
+        "Phím điều khiển đối xứng (Isometric joystick)",
+        "Phím không chuyển động (Non movable stick)",
+        "Phím điều khiển (Joystick)",
+        "Không đáp án nào đúng",
+        [
+            "Phím điều khiển đối xứng (Isometric joystick)"
+        ]
+    ],
+    "Thiết bị nào dưới đây được xây dựng với các cảm biến dùng để phát hiện chuyển động bàn tay và ngón tay": [
+        "Găng tay cảm nhận (Data glove)",
+        "Bộ số hóa (Digitizers)",
+        "Phím điều khiển trò chơi (Joystick)",
+        "Track ball",
+        [
+            "Găng tay cảm nhận (Data glove)"
+        ]
+    ],
+    "Thiết bị phổ biến dùng để vẽ tô màu hoặc lựa chọn vị trí tọa độ trên một đối tượng là": [
+        "Bộ số hóa (Digitizers)",
+        "Máy quét ảnh (Image scanner)",
+        "Găng tay cảm nhận (Data glove)",
+        "Bảng lựa chọn bằng tiếp xúc (Touch panels)",
+        [
+            "Bộ số hóa (Digitizers)"
+        ]
+    ],
+    "Thiết bị nào được sử dụng làm đầu vào là tọa độ 2 chiều bằng cách kích hoạt con trỏ tay trên một bề mặt phẳng": [
+        "Graphic tablet",
+        "Data tablet",
+        [
+            "Graphic tablet",
+            "Data tablet"
+        ]
+    ],
+    "được sử dụng để xác định vị trí trên data tablet": [
+        "Hoặc Signal strength hoặc coded pulse",
+        "Strip microphones",
+        "Signal strength",
+        "Coded pulse",
+        [
+            "Hoặc Signal strength hoặc coded pulse"
+        ]
+    ],
+    "cho phép vị trí trên màn hình được lựa chọn bằng việc tiếp xúc một ngón tay": [
+        "Bảng lựa chọn bằng tiếp xúc (Touch panels)",
+        "Máy quét ảnh (Image scanner)",
+        "Light pen",
+        "Mouse",
+        [
+            "Bảng lựa chọn bằng tiếp xúc (Touch panels)"
+        ]
+    ],
+    "Nhược điểm của light pen là gì": [
+        "Không thể phát hiện vị trí trong vùng màu đen",
+        "Hình dáng",
+        "Không thể phát hiện vị trí",
+        "Đọc chính xác",
+        [
+            "Không thể phát hiện vị trí trong vùng màu đen"
+        ]
+    ],
+    "Được sử dụng trong trạm làm việc đồ họa như là thiết bị vào chấp nhận các câu lệnh bằng giọng nói": [
+        "Bộ nhận dạng tiếng nói (Speech recognizers)",
+        "Bảng lựa chọn bằng tiếp xúc (Touch panels)",
+        "Tất cả các lựa chọn",
+        [
+            "Bộ nhận dạng tiếng nói (Speech recognizers)"
+        ]
+    ],
+    "Giọng nói được sử dụng để làm gì trong hệ thống dùng giọng nói": [
+        "Để khởi tạo các thao tác đồ họa (To initiate graphics operation)",
+        "Để nhập dữ liệu (To enter data)",
+        "Không có đáp án",
+        [
+            "Để khởi tạo các thao tác đồ họa (To initiate graphics operation)",
+            "Để nhập dữ liệu (To enter data)"
+        ]
+    ],
+    "Khi một câu lệnh bằng giọng nói được đưa ra hệ thống sẽ tìm kiếm trong      để đối sánh mẫu tần số": [
+        "Từ điển (Dictionary)",
+        "Bộ nhớ (Memory)",
+        "Dữ liệu vào (Input data)",
+        "Đĩa cứng (Hard disk)",
+        [
+            "Từ điển (Dictionary)"
+        ]
+    ],
+    "Thiết bị được thiết kế để tối thiểu hóa âm thanh nền là": [
+        "Micro (Microphone)",
+        "Bộ số hóa (Digitizers)",
+        "Găng tay cảm nhận (Data glove)",
+        "Phím điều khiển trò chơi (Joy stick)",
+        [
+            "Micro (Microphone)"
+        ]
+    ],
+    "Chất lượng một bức ảnh có được từ thiết bị phụ thuộc vào": [
+        "Kích cỡ của 1 điểm (Dot size)",
+        "Số lượng điểm trên mỗi inch",
+        "Số lượng dòng trên mỗi inch",
+        [
+            "Kích cỡ của 1 điểm (Dot size)",
+            "Số lượng điểm trên mỗi inch",
+            "Số lượng dòng trên mỗi inch"
+        ]
+    ],
+    "Thiết bị nào dưới đây không phải thiết bị vào": [
+        "Dòng máy in tác động (Impact printers)",
+        "Trackball và space ball",
+        "Găng tay cảm nhận (Data glove)",
+        [
+            "Dòng máy in tác động (Impact printers)"
+        ]
+    ],
+    "Thiết bị nào dưới đây có chứa thumbwheel trackball và mouse ball chuẩn": [
+        "Chuột Z (Z mouse)",
+        "Điều khiển trò chơi (Joystick)",
+        "Chuột (Mouse)",
+        "Trackball",
+        [
+            "Chuột Z (Z mouse)"
+        ]
+    ],
+    "Thực tế ảo CAD và hoạt cảnh là ứng dụng của": [
+        "Chuột Z (Z mouse)",
+        "Bộ số hóa (Digitizers)",
+        "Bảng dữ liệu (Data tablets)",
+        "Máy quét ảnh (Image scanner)",
+        [
+            "Chuột Z (Z mouse)"
+        ]
+    ],
+    "Thiết bị nào cung cấp thông tin vị trí cho hệ thống đồ họa": [
+        "Thiết bị vào (Input devices)",
+        "Thiết bị trỏ (Pointing devices)",
+        "Thiết bị ra (Output devices)",
+        [
+            "Thiết bị vào (Input devices)",
+            "Thiết bị trỏ (Pointing devices)"
+        ]
+    ],
+    "Số lượng điểm ảnh được lưu trữ trong bộ đệm khung của một hệ thống đồ họa được biết đến như là": [
+        "Độ phân giải (Resolution)",
+        "Độ sâu (Depth)",
+        "Tốc độ làm tươi (Refresh rate)",
+        "Dung lượng bộ nhớ (Capacity of memory)",
+        [
+            "Độ phân giải (Resolution)"
+        ]
+    ],
+    "Trong hệ thống đồ họa mảng các điểm ảnh trong một bức ảnh được lưu trữ trong": [
+        "Bộ đệm khung (Frame buffer)",
+        "Bộ nhớ (Memory)",
+        "Bộ vi xử lý (Processor)",
+        "Tất cả các lựa chọn",
+        [
+            "Bộ đệm khung (Frame buffer)"
+        ]
+    ],
+    "Nhiệt được cung cấp cho ống ca tốt cathode bằng một dòng điện đi qua dây điện được gọi là": [
+        "Dây tóc (Filament)",
+        "Súng điện tử (Electron gun)",
+        "Dòng điện tử (Electron beam)",
+        "A nốt và ca tốt (Anode and cathode)",
+        [
+            "Dây tóc (Filament)"
+        ]
+    ],
+    "Số lượng tối đa các điểm có thể hiển thị không bị trung nhau trong ống CRT được coi như là": [
+        "Độ phân giải (Resolution)",
+        "Ảnh (Picture)",
+        "Đại lượng không đổi (Persistence)",
+        [
+            "Độ phân giải (Resolution)"
+        ]
+    ],
+    "   lưu trữ thông tin ảnh như là phân bố sự thay đổi đằng sau màn hình phốt pho ": [
+        "Ống lưu trữ cảnh trực tiếp (Direct-view storage tube)",
+        "Ống tia ca tốt (Cathode ray tube)",
+        "Màn hình hiển thị phẳng (Flat panel displays)",
+        "Thiết bị hiển thị ba chiều (3D viewing device)",
+        [
+            "Ống lưu trữ cảnh trực tiếp (Direct-view storage tube)"
+        ]
+    ],
+    "Thiết bị chuyển đổi từ năng lượng điện thành ánh sang được gọi là": [
+        "Bộ phát (Emitters)",
+        "Màn hình tinh thể lỏng (Liquid-crystal displays)",
+        "Bộ không phát (Non-emitters)",
+        "Màn hình Plasma (Plasma panels)",
+        [
+            "Bộ phát (Emitters)"
+        ]
+    ],
+    "Trong hệ thống nào phương pháp mặt nạ tạo bóng the Shadow mask methods thường được sử dụng": [
+        "Hệ thống quét mành (Raster-scan system)",
+        "Hệ thống quét ngẫu nhiên (Random-scan system)",
+        [
+            "Hệ thống quét mành (Raster-scan system)"
+        ]
+    ],
+    "Quá trình xử lý số hóa một ảnh cho trước thành tập cường độ điểm ảnh lưu trữ trong bộ đệm khung được gọi là": [
+        "Chuyển đổi quét (Scan conversion)",
+        "Mành hóa (Rasterization)",
+        "Mã hóa (Encoding)",
+        "Hệ thống màu thực (True color system)",
+        [
+            "Chuyển đổi quét (Scan conversion)"
+        ]
+    ],
+    "Thiết bị hiển thị nào cho phép di chuyển xung quanh đối tượng và hiện thị đối tượng từ các hướng khác nhau": [
+        "Thiết bị hiển thị ba chiều (Three-dimensional devices)",
+        "Ống lưu trữ cảnh trực tiếp (Direct view storage tubes)",
+        "Thiết bị hiển thị màn hình phẳng (Flat panel display devices)",
+        "Thiết bị hiển thị plasma (Plasma panel display devices)",
+        [
+            "Thiết bị hiển thị ba chiều (Three-dimensional devices)"
+        ]
+    ],
+    "Trong màn hình LCD tốc độ làm tươi của màn hình là": [
+        "60 khung hình /s",
+        "80 khung hình /s",
+        "30 khung hình /s",
+        "100 khung hình /s",
+        [
+            "60 khung hình /s"
+        ]
+    ],
+    "Hệ thống quét ngẫu nhiên được thiết kế cho ": [
+        "Ứng dụng vẽ đường thẳng (Line-drawing applications)",
+        "Màn hình đổ bóng thực (Realistic shaded screen)",
+        "Hiệu ứng sương mù (Fog effect)",
+        [
+            "Ứng dụng vẽ đường thẳng (Line-drawing applications)"
+        ]
+    ],
+    "Thiết bị ra chính trong hệ thống đồ họa là": [
+        "Màn hình hiển thị video (Video monitor)",
+        "Máy quét",
+        "Máy in",
+        "Không có đáp án đúng",
+        [
+            "Màn hình hiển thị video (Video monitor)"
+        ]
+    ],
+    "Trên một hệ thống đen trắng với một bit trên một điểm ảnh one bit per pixel bộ đệm khung thường được gọi là": [
+        "Bitmap",
+        "Pix map",
+        "Multi map",
+        "Tất cả các lựa chọn",
+        [
+            "Bitmap"
+        ]
+    ],
+    "“Aspect ratio” có nghĩa là": [
+        "Tỉ lệ điểm ảnh chiều cao so với chiều rộng (Ratio of vertical points to horizontal points)",
+        "Tỉ lệ điểm ảnh chiều rộng so với chiều cao (Ratio of horizontal points to vertical points)",
+        "Số lượng điểm ảnh (Number of pixels)",
+        [
+            "Tỉ lệ điểm ảnh chiều cao so với chiều rộng (Ratio of vertical points to horizontal points)",
+            "Tỉ lệ điểm ảnh chiều rộng so với chiều cao (Ratio of horizontal points to vertical points)"
+        ]
+    ],
+    "Giao diện đồ họa cơ bản là": [
+        "Thiết bị trỏ (Pointing)",
+        "Thiết bị định vị (Positioning)",
+        "Không lựa chọn nào",
+        [
+            "Thiết bị trỏ (Pointing)",
+            "Thiết bị định vị (Positioning)"
+        ]
+    ]
+}

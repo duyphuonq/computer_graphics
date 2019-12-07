@@ -1,0 +1,123 @@
+{
+    "Tham số chính của thuộc tính đường cong và bề mặt là": [
+        "Kiểu (Type)",
+        "Độ rộng (Width)",
+        "Màu sắc (Color)",
+        [
+            "Kiểu (Type)",
+            "Độ rộng (Width)",
+            "Màu sắc (Color)"
+        ]
+    ],
+    "Các đường cong mành hóa với các độ rộng khác nhau có thể được hiển thị sử dụng": [
+        "Các nhịp ngang hoặc dọc (Horizontal and vertical spans)",
+        "Các nhịp ngang (Horizontal spans)",
+        "Các nhịp dọc (Vertical spans)",
+        [
+            "Các nhịp ngang hoặc dọc (Horizontal and vertical spans)"
+        ]
+    ],
+    "Nếu độ lớn của hệ số góc đoạn cong nhỏ hơn 1 thì": [
+        "Chúng ta có thể vẽ các nhịp dọc",
+        "Chúng ta có thể vẽ các nhịp ngang",
+        "Tất cả các lựa chọn",
+        [
+            "Chúng ta có thể vẽ các nhịp dọc"
+        ]
+    ],
+    "Nếu hệ số góc là 1 thì đường tròn elip và các loại đường cong khác sẽ ở dạng": [
+        "Nhỏ nhất (Thinnest)",
+        "Dày (Thick)",
+        "Lớn (Big)",
+        "Gồ ghề (Rough)",
+        [
+            "Nhỏ nhất (Thinnest)"
+        ]
+    ],
+    "Một trong các phương pháp hiển thị đường con dày là": [
+        "Hệ số góc (Curve slope)",
+        "Độ rộng (Curve width)",
+        "Đầu mút (Curve cap)",
+        [
+            "Hệ số góc (Curve slope)"
+        ]
+    ],
+    "Mặt nạ điểm ảnh pixel masks để thực thi lựa chọn kiểu đường thẳng được sử dụng trong thuật toán sau để tạo ra các mẫu gạch dashed hoặc chấm dotted": [
+        "Thuật toán đường cong mành (Raster curve algorithm)",
+        "Thuật toán đường thẳng mành (Raster line algorithm)",
+        "Thuật toán quét mành (Raster scan algorithm)",
+        "Thuật toán đường cong ngẫu nhiên (Random curve algorithm)",
+        [
+            "Thuật toán đường cong mành (Raster curve algorithm)"
+        ]
+    ],
+    "Chúng ta có thể sinh ra các mẫu gạch dashed trong các mẫu 18 cung tròn octant đoạn của hình tròn đoạn nằm ngang sử dụng": [
+        "Tính đối xứng của đường tròn (Circle symmetry)",
+        "Đường tròn (Circles)",
+        "Hệ số góc đoạn cong (Curve slope)",
+        [
+            "Tính đối xứng của đường tròn (Circle symmetry)"
+        ]
+    ],
+    "Chức năng của mặt nạ điểm ảnh pixel mask là": [
+        "Để hiện thị mẫu gạch (dashes) và khoảng trống giữa các mẫu gạch (inter dash spaces) theo hệ số góc",
+        "Để hiển thị thuộc tính cong",
+        "Để hiển thị các đường cong dày",
+        "Không lựa chọn nào",
+        [
+            "Để hiện thị mẫu gạch (dashes) và khoảng trống giữa các mẫu gạch (inter dash spaces) theo hệ số góc"
+        ]
+    ],
+    "Nếu chúng ta muốn hiển thị các mẫu gạch có độ dài cố định constantlength dashes chúng ta cần phải": [
+        "Điều chỉnh số lượng điểm ảnh trong mỗi mẫu gạch",
+        "Điều chỉnh số lượng các chấm",
+        "Sử dụng các hàm kiểu đường thẳng",
+        [
+            "Điều chỉnh số lượng điểm ảnh trong mỗi mẫu gạch"
+        ]
+    ],
+    "Các đường cong được hiển thị với các bút hình chữ nhật sẽ": [
+        "Mảnh hơn và hệ số góc nhỏ hơn 1 (Thicker and magnitude slope is 1)",
+        "Mảnh hơn (Thinner)",
+        "Dày hơn và hệ số góc lớn hơn 1 (Thicker and magnitude slope >1)",
+        [
+            "Mảnh hơn và hệ số góc nhỏ hơn 1 (Thicker and magnitude slope is 1)"
+        ]
+    ],
+    "là một dải linh hoạt flexible strip được sử dụng để tạo ra đường cong mượt sử dụng một tập các điểm": [
+        "Đường spline (Spline)",
+        "Phương pháp dòng quét (Scan-line method)",
+        "Phương pháp sắp xếp độ sâu (Depth-sorting method)",
+        "Không lựa chọn nào",
+        [
+            "Đường spline (Spline)"
+        ]
+    ],
+    "Kiểu của đường cong spline là": [
+        "Đường spline mở (Open spline)",
+        "Đường spline đóng (Closed spline)",
+        "Không lựa chọn nào",
+        [
+            "Đường spline mở (Open spline)",
+            "Đường spline đóng (Closed spline)"
+        ]
+    ],
+    "Spline bậc 3 là": [
+        "Đơn giản để tính toán",
+        "Cung cấp các đường cong liên tục",
+        "Không lựa chọn nào",
+        [
+            "Đơn giản để tính toán",
+            "Cung cấp các đường cong liên tục"
+        ]
+    ],
+    "Dạng tham số của đường spline 3D là": [
+        "X=f(t),y=g(t),z=h(t)",
+        "X=a0,y=b0,z=c0",
+        "F(t)=0,g(t)=0,h(t)=0",
+        "Không lựa chọn nào",
+        [
+            "X=f(t),y=g(t),z=h(t)"
+        ]
+    ]
+}
