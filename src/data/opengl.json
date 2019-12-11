@@ -1,0 +1,360 @@
+{
+    "Ý nghĩa của ifvd theo qui ước trong các hàm của OpenGL": [
+        "Chỉ rõ kiểu dữ liêu (int, float, pointer, double, ...)",
+        "Không có ý nghĩa gì đặc biệt",
+        "Chỉ rõ kiểu dữ liêu trong OpenGL được viết cho CPU",
+        "Đặc tả đầu ra (Ví dụ: immediate mode, frame buffer, virtual mode, double-buffer, ...)",
+        [
+            "Chỉ rõ kiểu dữ liêu (int, float, pointer, double, ...)"
+        ]
+    ],
+    "Đâu là 2 lựa chọn của glShadeModel": [
+        "SMOOTH và FLAT",
+        "DEPTH và STENCIL",
+        "WIDE và NARROW",
+        "FOREGROUND và BACKGROUND",
+        [
+            "SMOOTH và FLAT"
+        ]
+    ],
+    "Cỡ của ma trận biến đổi 3 chiều": [
+        "4x4",
+        "2x2",
+        "3x3",
+        "3x4",
+        [
+            "4x4"
+        ]
+    ],
+    "Bạn có thể chỉ rõ vị trí của một nguồn sáng trong OpenGL": [
+        "Có",
+        "Không",
+        "Thỉnh thoảng",
+        [
+            "Có"
+        ]
+    ],
+    "VA hoặc VAO viết tắt cho": [
+        "Vertex Array Object",
+        "Vector Array Object",
+        "Vertex Automation Output",
+        "Vector Array Output",
+        [
+            "Vertex Array Object"
+        ]
+    ],
+    "Chúng ta phải làm gì để quay đối tượng quanh một điểm không phải gốc tọa độ": [
+        "Dịch đối tượng tới gốc tọa độ, xoay quah gốc tọa độ sau đó dịch tới vị trí ban đầu",
+        "Phép quay chỉ thực hiện được quanh gốc tọa độ",
+        "Thực hiện câu lệnh glRotate và chỉ rõ điểm mà đối tượng quay quanh",
+        [
+            "Dịch đối tượng tới gốc tọa độ, xoay quah gốc tọa độ sau đó dịch tới vị trí ban đầu"
+        ]
+    ],
+    "Trong OpenGL GLSL là viết tắt của": [
+        "Graphics Library Shader Language",
+        "Graphical Library of Shader Languages",
+        "Geographic Land and Survey Library",
+        "Graphical Language and Shading Library",
+        [
+            "Graphics Library Shader Language"
+        ]
+    ],
+    "glMaterialf thực hiện chức năng": [
+        "Định nghĩa thuộc tính chất liệu của đối tượng được vẽ cho hiệu ứng hiển thị",
+        "Bật thuộc tính chất liệu",
+        "Chuyển sang chế độ chất liệu để thêm hiệu ứng hiển thị",
+        "Lấy thuộc tính chất liệu của đối tượng được vẽ",
+        [
+            "Định nghĩa thuộc tính chất liệu của đối tượng được vẽ cho hiệu ứng hiển thị"
+        ]
+    ],
+    "Một số thủ tục OpenGL không thể lưu trữ trong danh sách hiển thị display list": [
+        "Yes",
+        "No",
+        [
+            "Yes"
+        ]
+    ],
+    "Dạng đa giác nào hoạt động tốt nhất trong VBO để mô hình hóa đối tượng đặc solid": [
+        "Triangles, Triangle Strips và Triangle Fans",
+        "Triangles, quads và N-gons",
+        "Quads, N-gons và unilateral N-gons",
+        "N-gonal coplanar line strips",
+        [
+            "Triangles, Triangle Strips và Triangle Fans"
+        ]
+    ],
+    "Các thành phần tạo nên nguồn sáng trong OpenGL": [
+        "Specular và Ambient.",
+        "Diffuse, Specular, và Ambient.",
+        "Diffuse và Ambient.",
+        "Diffuse, Opaque, Ambient.",
+        [
+            "Specular và Ambient."
+        ]
+    ],
+    "Loại dữ liệu nào được lưu trữ trong VBO": [
+        "Đỉnh đa giác (Vertices)",
+        "Thông tin chia sẻ ngũ cảnh (Context-sharing Information)",
+        "Điểm ảnhPixels",
+        "Phân mảnh (Fragments)",
+        [
+            "Đỉnh đa giác (Vertices)"
+        ]
+    ],
+    "Hằng số hợp lệ cho glStencilOp": [
+        "GL_KEEP, GL_ZERO,GL_REPLACE, GL_INCR, GL_INCR_WRAP, GL_DECR, GL_DECR_WRAP, GL_INVERT",
+        "Một số nằm trong khoảng 0 và 255",
+        "TRUE hoặc FALSE",
+        "GL_R, GL_G, GL_B, GL_RGB, GL_RGBA, GL_ARGB, GL_BGRA",
+        [
+            "GL_KEEP, GL_ZERO,GL_REPLACE, GL_INCR, GL_INCR_WRAP, GL_DECR, GL_DECR_WRAP, GL_INVERT"
+        ]
+    ],
+    "Biến đổi transformation là gì ": [
+        "Phép toán được sử dụng thể tạo các di chuyển của các điểm và đối tượng theo mong muốn",
+        "Chuyển qua lại giữa các bộ đệm",
+        "Hàm của OpenGL dùng để biến dạng (morph) đa giác thành đa giác khác.",
+        [
+            "Phép toán được sử dụng thể tạo các di chuyển của các điểm và đối tượng theo mong muốn"
+        ]
+    ],
+    "Nói chung các đa giác nguyên thủy primitive polygon nào được dùng để tạo lưới để biểu diễn các đối tượng phức tạp": [
+        "Tam giác (Triangle)",
+        "Hình vuông (Square)",
+        "Hình tròn (Circle)",
+        "Hình chữ nhật (Rectangle)",
+        [
+            "Tam giác (Triangle)"
+        ]
+    ],
+    "Nếu không bật nguồn sáng hàm nào dưới đây chỉ rõ màu của các đỉnh": [
+        "glColor()",
+        "glClearColor()",
+        "glDisplayfunc()",
+        "Không hàm nào",
+        [
+            "glColor()"
+        ]
+    ],
+    "Sự khác nhau giữa glColor3d và glColor3f": [
+        "glColor3d có tham số kiểu double trong khi glColor3f có tham số kiểu float",
+        "glColor3d chỉ thiết lập RGB, trong khi glColor3f thiết lập R,G,B và A",
+        "glColor3d cho phép thao tác với màu 3d trong khi glColor3f chỉ cho phép 8-bit màu",
+        "glColor3d trong không gian thực trong khi glColor3f trong không gian số nguyên",
+        [
+            "glColor3d có tham số kiểu double trong khi glColor3f có tham số kiểu float"
+        ]
+    ],
+    "FBO là gì": [
+        "Framebuffer Object",
+        "File Buffered Output",
+        "Frictionless Baryonic Oscillation",
+        "Friday Buy Out",
+        [
+            "Framebuffer Object"
+        ]
+    ],
+    "Hàm nào có thể thiết lập kích cỡ của vùng hiển thị": [
+        "glViewport()",
+        "gluPerspective()",
+        "Không lựa chọn nào",
+        "glDisplayfunc()",
+        [
+            "glViewport()"
+        ]
+    ],
+    "Ánh sáng môi trường ambient light có trong OpenGL": [
+        "Có",
+        "Thỉnh thoảng",
+        "Không",
+        [
+            "Có"
+        ]
+    ],
+    "OpenGL có hỗ trợ mành hóa Rasterization": [
+        "Có",
+        "Không",
+        [
+            "Có"
+        ]
+    ],
+    "OpenGL là viết tắt của": [
+        "Open Graphics Library",
+        "Open General Liability",
+        "Open Guide Line",
+        "Open Graphics Layer",
+        [
+            "Open Graphics Library"
+        ]
+    ],
+    "Opengl hệ trục tọa độ Decac ba chiều vuông góc 3D Cartesian Coordinate System": [
+        "Đúng",
+        "Sai",
+        [
+            "Đúng"
+        ]
+    ],
+    "Khi một phép quay được thực hiện ta có thể thực hiện phép quay ngược": [
+        "Đúng",
+        "Sai",
+        [
+            "Đúng"
+        ]
+    ],
+    "glVertex được dùng để vẽ các hình nguyên thủy trong OpenGL OpenGL primitives": [
+        "Đúng",
+        "Sai",
+        [
+            "Đúng"
+        ]
+    ],
+    "Loại dữ liệu nào được lưu trữ trong VAO": [
+        "Trạng thái của đỉnh (Vertex state) và các thông tin dữ liệu khác dùng cho rendering trong luồng xử lý đồ họa",
+        "Các thông tin lũy thửa để phân tích dữ liệu dạng sóng",
+        "Thông tin tài nguyên của chương trình như trees, lists và data types",
+        "Các chuỗi nhị phân",
+        [
+            "Trạng thái của đỉnh (Vertex state) và các thông tin dữ liệu khác dùng cho rendering trong luồng xử lý đồ họa"
+        ]
+    ],
+    "VBO là gì": [
+        "Vertex Buffer Object",
+        "Vertex Binding Object",
+        "Variable Buffer Output",
+        [
+            "Vertex Buffer Object"
+        ]
+    ],
+    "“depth buffer” là gì và chức năng của nó": [
+        "Một kiểu bộ đệm tích lũy thông tin độ sâu trong khung cảnh 3 chiều",
+        "Một lược đồ tổ chức cảnh 3 chiều",
+        "Mộ bộ đệm được đặc tả để thực hiện cảnh dưới nước",
+        [
+            "Một kiểu bộ đệm tích lũy thông tin độ sâu trong khung cảnh 3 chiều"
+        ]
+    ],
+    "OpenGL có cung cấp các đối tượng nguyên thủy như cube cone pyramid": [
+        "Không chính thức trong đặc tả của OpenGL nhưng các đối tượng này được cung cấp bởi thư viện GLUT",
+        "Có nhưng phải dùng glEnable(GL_PRIMITIVES) trước câu lệnh glBegin",
+        [
+            "Không chính thức trong đặc tả của OpenGL nhưng các đối tượng này được cung cấp bởi thư viện GLUT"
+        ]
+    ],
+    "OpenGL sử dụng mô hình clientserver và một máy trạng thái state machine": [
+        "Có",
+        "Không liên quan",
+        "Không",
+        [
+            "Có"
+        ]
+    ],
+    "OpenGL có một máy quay camera chính thức không": [
+        "Không",
+        "Có",
+        [
+            "Không"
+        ]
+    ],
+    "Tổ chức chịu trách nhiệm cho các chuẩn và phát triển của OpenGL": [
+        "Khronos",
+        "Crysis",
+        "Cryptic",
+        "Chronos",
+        [
+            "Khronos"
+        ]
+    ],
+    "Mục đích của GLREPEAT trong OpenGL": [
+        "Lặp lại ảnh chất liệu theo một hướng (ngang hoặc dọc)",
+        "Lặp lại câu lệnh cuối cùng",
+        "Kích hoạt chế độ 2 bộ đệm",
+        "Khởi động lại ứng dụng",
+        [
+            "Lặp lại ảnh chất liệu theo một hướng (ngang hoặc dọc)"
+        ]
+    ],
+    "Để có được tính toán chính xác cho việc tạo bóng Độ dài cho các vecto pháp tuyến của đối tượng là": [
+        "1 (đơn vị độ dài)",
+        "2",
+        "Bất cứ giá trị nào.",
+        "Phụ thuộc vào kích cỡ của đối tượng được vẽ",
+        [
+            "1 (đơn vị độ dài)"
+        ]
+    ],
+    "Tại sao phải xóa bộ đệm": [
+        "Khởi tạo lại một trạng thái",
+        "Yêu cầu bộ đệm xuất dữ liệu ra màn hình",
+        "Để hoán đổi ộ đệm",
+        "Để hiển thị được rõ ràng hơn",
+        [
+            "Khởi tạo lại một trạng thái"
+        ]
+    ],
+    "glViewport dùng để làm gì": [
+        "Thiết lập sự mở rộng cho khung nhìn hiện tại",
+        "Thiết lập một viewport hoạt động",
+        "Yêu cầu dùng cho hàm glOrtho",
+        "Tắt chế độ tích lũy và kích hoạt viewport chuẩn.",
+        [
+            "Thiết lập sự mở rộng cho khung nhìn hiện tại"
+        ]
+    ],
+    "Hai kiểu của shader": [
+        "Vertex and fragment.",
+        "Fragment and polygon.",
+        "Vertex and polygon",
+        [
+            "Vertex and fragment."
+        ]
+    ],
+    "Các hàm trộn blending function không phụ thuộc thứ tự": [
+        "Sai",
+        "Đúng",
+        [
+            "Sai"
+        ]
+    ],
+    "XYZSTU và V là gì": [
+        "Thành phần tọa độ (Coordinate components)",
+        "Các ký tự trong bảng chữ cái và không có ý nghĩa",
+        "Tham số lựa chọn trong hàm glVertex*",
+        [
+            "Thành phần tọa độ (Coordinate components)"
+        ]
+    ],
+    "OpenGL có cung cấp hiệu ứng vật lý physics hệ thống hạt particle systems": [
+        "Không.",
+        "Có nhưng trong thư viện mở rộng Box2d",
+        [
+            "Không."
+        ]
+    ],
+    "Các giá trị “R” “G” “B” và “A” trong ngữ cảnh màu sắc có ý nghĩa gì": [
+        "Các kênh Red, Green, Blue và Alpha tương ứng",
+        "Rotate, Gyrate, Blend và Amorphize",
+        "Red, Green, Black, Auburn",
+        "Các giá trị “R”, “G”, “B” và “A” trong ngữ cảnh màu sắc có ý nghĩa gì?",
+        [
+            "Các kênh Red, Green, Blue và Alpha tương ứng"
+        ]
+    ],
+    "OpenGL có thực hiện các thủ tục cắt xén không": [
+        "Có",
+        "Không",
+        [
+            "Có"
+        ]
+    ],
+    "Loại mảng đỉnh vertex array nào không được cung cấp bởi OpenGL": [
+        "Đa giác (Polygons)",
+        "Đỉnh (Verticies)",
+        "Màu sắc (Colors)",
+        "Vecto pháp tuyến (Normals)",
+        [
+            "Đa giác (Polygons)"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Hai mô hình màu là": [
+        "RGB và CMYK",
+        "RGB và CMKY",
+        "RBG và CYMK",
+        "Không lựa chọn nào",
+        [
+            "RGB và CMYK"
+        ]
+    ],
+    "Mô hình RGB được sử dụng cho": [
+        "Màn hình máy tính",
+        "In ấn",
+        "Tô màu",
+        "Không lựa chọn nào",
+        [
+            "Màn hình máy tính"
+        ]
+    ],
+    "Mô hình CMYK được sử dụng cho": [
+        "In ấn",
+        "Màn hình máy tính",
+        "Tô màu",
+        "Không lựa chọn nào",
+        [
+            "In ấn"
+        ]
+    ],
+    "Phần giao của 3 màu cơ bản RGB sẽ tạo ra màu": [
+        "Trắng",
+        "Đen",
+        "Tím",
+        "Xanh nước biển",
+        [
+            "Trắng"
+        ]
+    ],
+    "Phần giao của 3 màu cơ bản CMYK sẽ tạo ra màu": [
+        "Đen",
+        "Trắng",
+        "Tím",
+        "Xanh nước biển",
+        [
+            "Đen"
+        ]
+    ],
+    "Kỹ thuật tạo bóng nào dưới đây shading techniques tạo ra hiệu ứng bề mặt phẳng faceted appearance": [
+        "Gouraud",
+        "flat",
+        "Phong",
+        "Không lựa chọn nào",
+        [
+            "Gouraud"
+        ]
+    ],
+    "Kỹ thuật tạo bóng nào dưới dây cho phép miêu tả điểm sang specular highlights": [
+        "Phong",
+        "flat",
+        "Gouraud",
+        "Không lựa chọn nào",
+        [
+            "Phong"
+        ]
+    ],
+    "Khẳng định nào dưới đây về các mô hình tạo bóng là đúng": [
+        "Khi áp dụng tạo bóng phẳng, mô hình ánh sang chỉ được áp dụng một lần cho mỗi đa giác, và mọi điểm ảnh trên đa giác đó nhận cùng giá trị cường độ sáng",
+        "Tạo bóng Phong giả định cùng một vectơ pháp tuyến được áp dụng cho mọi điểm ảnh trên bề mặt",
+        "Tạo bóng Gouraud luôn có điểm sáng",
+        "Tạo bóng cố định (Constant) yêu cầu tính toán phức tạp hơn tạo bóng Phong",
+        [
+            "Khi áp dụng tạo bóng phẳng, mô hình ánh sang chỉ được áp dụng một lần cho mỗi đa giác, và mọi điểm ảnh trên đa giác đó nhận cùng giá trị cường độ sáng"
+        ]
+    ],
+    "Lý tưởng hóa nguồn sáng có hướng phù hợp cho nguồn sáng gần với khung cảnh": [
+        "True",
+        "False",
+        [
+            "True"
+        ]
+    ],
+    "Khi sử dụng mô hình phản chiếu Phong Phong Reflectance Model chúng ta tính các kênh đỏ xanh lá xanh dương độc lập": [
+        "True",
+        "False",
+        [
+            "True"
+        ]
+    ],
+    "Khi sử dụng mô hình phản chiếu Phong Phong Reflectance Model với tạo phóng trơn smooth shading cho bề mặt được tam giác hóa chúng ta tính mô hình phản chiếu Phong một lần cho mỗi tam giác": [
+        "False",
+        "True",
+        [
+            "False"
+        ]
+    ]
+}
